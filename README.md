@@ -18,8 +18,8 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 ```
 /*
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
-Developed by: ALAN ZION H
-RegisterNumber:  212223240004
+Developed by:Gokul R
+RegisterNumber:  212222230039
 */
 ```
 ```
@@ -53,16 +53,6 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ## Output:
 ## Data Head:
 ![image](https://github.com/ALANZION/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/145743064/eaa5731d-9413-4638-92e4-c93c6b1837fd)
-## Information:
-![image](https://github.com/ALANZION/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/145743064/bb81a1fb-5f96-441a-852b-fc791083a78d)
-## NullDataset:
-![image](https://github.com/ALANZION/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/145743064/30e091bd-2df2-4930-b56f-0f69cf8c0f26)
-## ValueCounts:
-![image](https://github.com/ALANZION/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/145743064/0da66ff6-6869-402a-8418-8ad19e34c562)
-## Datahead:
-![image](https://github.com/ALANZION/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/145743064/9338acd0-9727-4630-8a7c-d6b9ebf93ad7)
-## x.head:
-![image](https://github.com/ALANZION/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/145743064/10f83be2-a3d1-435e-951d-8f6013f3ea11)
 ## Accuracy:
 ![image](https://github.com/ALANZION/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/145743064/de857352-0986-44e4-8a96-e42b9dd72deb)
 ## Data Prediction:
